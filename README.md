@@ -16,6 +16,8 @@
 
 - NODEJS
 - TYPESCRIPT
+- INSOMNIA
 
+**Para Realização de testes e execução usar o Insomnia com Configuração de POST e GET**
 
 

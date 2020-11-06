@@ -1,6 +1,6 @@
 ## DESAFIO 5 - FUNDAMENTOS DE NODE JS COM TYPESCRIPT
 
-**ESCOPO DO PROJETO**
+### ESCOPO DO PROJETO
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 <p> O projeto consiste na criação de um Backend em NodeJS onde pude aprimorar conhecimentos de TYPESCRIPT para tipagem do javascript, bem como criação de estrutura de classes respeitando as melhores práticas com DRY, SRP, SOC, SOLID</p>
@@ -17,6 +17,5 @@
 - NODEJS
 - TYPESCRIPT
 
-<p>O Projeto atual consiste na cri
 
 
